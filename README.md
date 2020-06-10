@@ -1,6 +1,8 @@
 ## README
 
-*Game name: Huoxialai          Group members: Xia Gong, Qinhang Li, Jiang Li*
+*Game name: Huoxialai*
+
+*Group members: Xia Gong, Qinhang Li, Jiang Li*
 
 #### Introduction
 
