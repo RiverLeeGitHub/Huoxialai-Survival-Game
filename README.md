@@ -2,13 +2,39 @@
 
 *Game name: Huoxialai*
 
-*Group members: Xia Gong, Qinhang Li, Jiang Li*
+Development members: Jiang Li, Xia Gong, Qinhang Li
 
 #### Introduction
 
 This is a survival action game. Enemies, weapons and props are distributed in the game scene. The player need to pick up weapons or props to attack or protect itself. The game is designed with a safe zone, and characters will continuously get hurt when outside this zone. The player wins after defeating all enemies. If the player's health is damaged to 0, the game is lost.
 
+#### Demonstration
 
+* The player is idling in the scene, with a wrench holding in his hand.
+
+  ![idle](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/idle.gif)
+
+* This is how the game starts.
+
+  ![start_scene](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/start_scene.gif)
+
+* Player and NPCs can pick up weapons to attack others or take drug to cure themselves.
+
+  ![fight](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/fight.gif)
+
+* Magic attack is available!
+
+  ![magic_attack](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/magic_attack.gif)
+
+* Your blood will decrease when standing outside the safezone.
+
+  ![outside_safezone](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/outside_safezone.gif)
+
+* The game ends when you die
+
+  ![lose_scene](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/lose_scene.gif)
+
+  
 
 #### Scripts
 
