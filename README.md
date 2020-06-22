@@ -12,27 +12,27 @@ This is a survival action game. Enemies, weapons and props are distributed in th
 
 * The player is idling in the scene, with a wrench holding in his hand.
 
-  ![idle](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/idle.gif)
+  ![idle](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/fight.gif)
 
 * This is how the game starts.
 
-  ![start_scene](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/start_scene.gif)
+  ![start_scene](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/start_scene.gif)
 
 * Player and NPCs can pick up weapons to attack others or take drug to cure themselves.
 
-  ![fight](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/fight.gif)
+  ![fight](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/fight.gif)
 
 * Magic attack is available!
 
-  ![magic_attack](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/magic_attack.gif)
+  ![magic_attack](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/magic_attack.gif)
 
 * Your blood will decrease when standing outside the safezone.
 
-  ![outside_safezone](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/outside_safezone.gif)
+  ![outside_safezone](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/outside_safezone.gif)
 
 * The game ends when you die
 
-  ![lose_scene](/Users/jiangli/Desktop/huoxialai github/DemoRecordings/lose_scene.gif)
+  ![lose_scene](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/lose_scene.gif)
 
   
 
