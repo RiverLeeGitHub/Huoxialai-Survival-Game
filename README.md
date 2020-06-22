@@ -12,7 +12,7 @@ This is a survival action game. Enemies, weapons and props are distributed in th
 
 * The player is idling in the scene, with a wrench holding in his hand.
 
-  ![idle](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/fight.gif)
+  ![idle](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/idle.gif)
 
 * This is how the game starts.
 
