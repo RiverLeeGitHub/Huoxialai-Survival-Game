@@ -14,7 +14,7 @@ This is a survival action game. Enemies, weapons and props are distributed in th
 
 ### Demonstration
 
-* The role is idling in the scene, with a wrench holding in his hand.  角色在场景中闲置的动画，手中的武器是扳手
+* The role is idling in the scene, with a wrench holding in his hand.  角色设定为一个不甘平凡的修理工，手握扳手意气风发
 
   ![idle](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/idle.gif)
 
@@ -22,7 +22,7 @@ This is a survival action game. Enemies, weapons and props are distributed in th
 
   ![start_scene](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/start_scene.gif)
 
-* Player and NPCs can pick up weapons to attack others or take drug to cure themselves.  玩家与NPC可以拾捡武器来攻击别人，或者喝药治疗
+* Player and NPCs can pick up weapons to attack others or take drug to cure themselves.  玩家与其他修理工可以拾捡武器来攻击对方，或者喝药治疗
 
   ![fight](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/fight.gif)
 
