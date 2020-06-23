@@ -1,42 +1,46 @@
 ## README
 
-*Game name: Huoxialai*
+*Game name: Huoxialai*   *游戏名字：活下来* 
 
-Development members: Jiang Li, Xia Gong, Qinhang Li
+Development members: Jiang Li, Xia Gong, Qinhang Li   *开发成员：李江、龚霞、李沁航*
 
-#### Introduction
+### Introduction
 
 This is a survival action game. Enemies, weapons and props are distributed in the game scene. The player need to pick up weapons or props to attack or protect itself. The game is designed with a safe zone, and characters will continuously get hurt when outside this zone. The player wins after defeating all enemies. If the player's health is damaged to 0, the game is lost.
 
-#### Demonstration
+这是一个生存动作游戏， 敌人、武器和道具随机分布在游戏场景中。 玩家需要拿起武器或道具来攻击敌人或保护自己。 游戏有毒圈设计，角色在该区域外时将不断受到伤害。 击败所有敌人后，玩家获胜。 如果玩家的生命值降低为0，游戏将会失败。
 
-* The player is idling in the scene, with a wrench holding in his hand.
+此项目为我的游戏课课程设计，说明为英文未能尽然翻译，抱歉啦。
+
+### Demonstration
+
+* The role is idling in the scene, with a wrench holding in his hand.  角色在场景中闲置的动画，手中的武器是扳手
 
   ![idle](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/idle.gif)
 
-* This is how the game starts.
+* This is how the game starts.   游戏的打开方式
 
   ![start_scene](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/start_scene.gif)
 
-* Player and NPCs can pick up weapons to attack others or take drug to cure themselves.
+* Player and NPCs can pick up weapons to attack others or take drug to cure themselves.  玩家与NPC可以拾捡武器来攻击别人，或者喝药治疗
 
   ![fight](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/fight.gif)
 
-* Magic attack is available!
+* Magic attack is available!  魔法攻击！
 
   ![magic_attack](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/magic_attack.gif)
 
-* Your blood will decrease when standing outside the safezone.
+* Your blood will decrease when standing outside the safezone.  跑到毒圈外会提示并扣血
 
   ![outside_safezone](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/outside_safezone.gif)
 
-* The game ends when you die
+* The game ends when you die.  当角色死亡后游戏结束
 
   ![lose_scene](https://github.com/RiverLeeGitHub/Huoxialai-Survival-Game/blob/master/DemoRecordings/lose_scene.gif)
 
   
 
-#### Scripts
+### Scripts
 
 * GameManager.cs  // Compute global static variables and control swiching scenes
 * Sound/SoundManager.cs  // Control playing audios
@@ -54,7 +58,7 @@ This is a survival action game. Enemies, weapons and props are distributed in th
 * Weapons/Drug.cs  // Function drug
 * Weapons/Wrench.cs  // Control the weapon functions, pick up or attack, animation, etc.
 
-#### Responsibilities
+### Responsibilities
 
 * **Jiang Li**
 
@@ -137,15 +141,6 @@ This is a survival action game. Enemies, weapons and props are distributed in th
 
       This cs file implements a polynomical regression, to predict the movement of the player.
 
-      To predict, call the function:
-
-      ```
-      predictMovement(List<float> arrY, int length, int dimension, int num);
-      arrY: player's coordinate
-      length: length of the input data
-      dimension: the dimension of the poly
-      num: the predicted coordinate at time t.
-      ```
 
 
 \* Some functions are written by one more group members. So it's hard to distinguish them all.
